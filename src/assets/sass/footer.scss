@@ -1,0 +1,63 @@
+.Footer_Wrap{
+    width: 1920px;
+    height: 309px;
+    background-color: #fff;
+
+
+    .group_letter{
+        display: flex;
+        top:44px;
+
+        .group01 {
+             margin-right: 311px; 
+             margin-left: 337px;
+            }
+        .group02 { margin-right: 115px; }
+        .group03 { 
+            position: relative;
+            margin-right: 115px;
+         }
+
+
+        .logo_02{
+            top: 44px;
+            left: 335px;
+        }
+    }
+    .group_icon{
+        position: relative;
+
+        .icon_01{
+            margin-left: 347px;
+            position: absolute;
+            top: 25%
+        }
+        .icon_02{
+            margin-left: 398px;
+            position: absolute;
+            top: 25%;
+        }
+        .icon_03{
+            margin-left: 450px;
+            position: absolute;
+            top: 25%;
+        }
+        .blackcircle_01{
+            margin-left: 335px;
+        }
+        .blackcircle_02{
+            margin-left: 10px;
+        }
+        .blackcircle_03{
+            margin-left: 10px;
+        }
+
+
+
+    }
+
+
+
+
+
+}
